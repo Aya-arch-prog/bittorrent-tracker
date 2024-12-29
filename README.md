@@ -1,4 +1,4 @@
-# bittorrent-tracker [![build](http://img.shields.io/travis/feross/bittorrent-tracker.svg)](https://travis-ci.org/feross/bittorrent-tracker) [![npm](http://img.shields.io/npm/v/bittorrent-tracker.svg)](https://npmjs.org/package/bittorrent-tracker) [![gittip](http://img.shields.io/gittip/feross.svg)](https://www.gittip.com/feross/)
+# bittorrent-tracker [![<>](http://img.shields.io/travis/feross/bittorrent-tracker.svg)](https://travis-ci.org/feross/bittorrent-tracker) [![npm](http://img.shields.io/npm/v/bittorrent-tracker.svg)](https://npmjs.org/package/bittorrent-tracker) [![gittip](http://img.shields.io/gittip/feross.svg)](https://www.gittip.com/feross/)
 
 #### Simple, robust, BitTorrent tracker (client & server) implementation
 
@@ -112,7 +112,7 @@ server.torrents[infoHash].complete
 
 // get the number of leechers for a particular torrent
 server.torrents[infoHash].incomplete
-
+®[\]
 // get the peers who are in a particular torrent swarm
 server.torrents[infoHash].peers
 ```
